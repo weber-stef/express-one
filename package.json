@@ -1,0 +1,22 @@
+{
+  "name": "express-one",
+  "version": "0.1.0",
+  "description": "First time working with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weber-stef/express-one.git"
+  },
+  "author": "Stefan Wruck <vitatech@gmx.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weber-stef/express-one/issues"
+  },
+  "homepage": "https://github.com/weber-stef/express-one#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
